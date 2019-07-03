@@ -1,5 +1,10 @@
-
-
+/**
+* TableHandler.java
+*
+* Assignment 2 - Table Reservation
+*
+* Class TableHandler
+*/
 
 public class TableHandler {
     private String[] tables;

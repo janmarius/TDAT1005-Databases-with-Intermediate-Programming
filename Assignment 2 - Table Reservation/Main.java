@@ -1,4 +1,10 @@
-
+/**
+* Main.java
+*
+* Assignment 2 - Table Reservation
+*
+* System to make table reservations
+*/
 
 import static javax.swing.JOptionPane.*;
 

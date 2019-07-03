@@ -1,4 +1,10 @@
-
+/**
+* Restaurant.java
+*
+* Assignment 2 - Table Reservation
+*
+* Class Restaurant
+*/
 
 import java.time.LocalDate;
 
