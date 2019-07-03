@@ -1,4 +1,10 @@
-package com.company;
+/**
+* Student.java
+*
+* Assignment 3 - Arrays of References and the Class ArrayList
+*
+* Class Student
+*/
 
 public class Student {
     private final String name;

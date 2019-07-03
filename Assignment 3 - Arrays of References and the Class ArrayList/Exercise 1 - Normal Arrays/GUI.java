@@ -1,4 +1,10 @@
-package com.company;
+/**
+* GUI.java
+*
+* Assignment 3 - Arrays of References and the Class ArrayList
+*
+* Class GUI
+*/
 
 import static javax.swing.JOptionPane.*;
 

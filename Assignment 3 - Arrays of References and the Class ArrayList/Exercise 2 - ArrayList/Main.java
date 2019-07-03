@@ -1,4 +1,11 @@
-package com.company;
+/**
+* Main.java
+*
+* Assignment 3 - Arrays of References and the Class ArrayList
+*
+* System to keep an overview of assignments.
+*/
+
 
 public class Main {
 

@@ -1,4 +1,10 @@
-package com.company;
+/**
+* AssignmentHandler.java
+*
+* Assignment 3 - Arrays of References and the Class ArrayList
+*
+* Class AssignmentHandler
+*/
 
 import java.util.Arrays;
 
