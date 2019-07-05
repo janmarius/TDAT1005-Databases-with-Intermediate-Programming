@@ -1,9 +1,9 @@
 /**
 * Main.java
 *
-* Assignment 2 - Table Reservation
+* Assignment 2 - Restaurant Reservation System (Repetition)
 *
-* System to make table reservations
+* System to make table reservations in restaurant.
 */
 
 import static javax.swing.JOptionPane.*;

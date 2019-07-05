@@ -1,7 +1,7 @@
 /**
 * Restaurant.java
 *
-* Assignment 2 - Table Reservation
+* Assignment 2 - Restaurant Reservation System (Repetition)
 *
 * Class Restaurant
 */
