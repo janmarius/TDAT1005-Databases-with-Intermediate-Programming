@@ -33,7 +33,6 @@ public class Main {
 
         // Regex norwegian phone number.
         String regexPhoneNumber = "[1-9][0-9]{7}";
-
         while(choice != EXIT) {
             switch (choice) {
                 case ADD_NEW_ROOM:
