@@ -1,7 +1,7 @@
 /**
 * GUI.java
 *
-* Assignment 3 - Arrays of References and the Class ArrayList
+* Assignment 3 - Assignment Management System (Arrays & ArrayList)
 *
 * Class GUI
 */
