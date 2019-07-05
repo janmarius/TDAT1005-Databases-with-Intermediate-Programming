@@ -90,7 +90,7 @@ public class Main {
                     // Ask client for booking end time.
                     String endTimeRead = null;
                     do {
-                        endTimeRead = showInputDialog("Start time (yyyy-mm-dd hh:mm):");
+                        endTimeRead = showInputDialog("End time (yyyy-mm-dd hh:mm):");
                         if (endTimeRead == null) break;
                         if (!endTimeRead.matches(regexTime)) {
                             showMessageDialog(null, "Invalid input, please try again!", "Error",
