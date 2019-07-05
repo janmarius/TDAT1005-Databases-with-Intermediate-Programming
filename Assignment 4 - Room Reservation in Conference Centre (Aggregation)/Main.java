@@ -1,7 +1,7 @@
 /**
  * Main.java
  *
- * Assignment 4 - Room Reservation in Conference Centre
+ * Assignment 4 - Room Reservation in Conference Centre (Aggregation)
  *
  * System to manage room reservations in conference centre.
  */

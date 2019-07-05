@@ -1,7 +1,7 @@
 /**
  * Time.java
  *
- * Assignment 4 - Room Reservation in Conference Centre
+ * Assignment 4 - Room Reservation in Conference Centre (Aggregation)
  *
  * Class Time
  */
